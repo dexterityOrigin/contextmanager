@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/dexterityOrigin/contextmanager/static/css/main.36497136.chunk.css",
-    "main.js": "/dexterityOrigin/contextmanager/static/js/main.4ab1de55.chunk.js",
-    "main.js.map": "/dexterityOrigin/contextmanager/static/js/main.4ab1de55.chunk.js.map",
-    "runtime~main.js": "/dexterityOrigin/contextmanager/static/js/runtime~main.e67f469c.js",
-    "runtime~main.js.map": "/dexterityOrigin/contextmanager/static/js/runtime~main.e67f469c.js.map",
-    "static/css/2.22a7d4ef.chunk.css": "/dexterityOrigin/contextmanager/static/css/2.22a7d4ef.chunk.css",
-    "static/js/2.e99db0ff.chunk.js": "/dexterityOrigin/contextmanager/static/js/2.e99db0ff.chunk.js",
-    "static/js/2.e99db0ff.chunk.js.map": "/dexterityOrigin/contextmanager/static/js/2.e99db0ff.chunk.js.map",
-    "index.html": "/dexterityOrigin/contextmanager/index.html",
-    "precache-manifest.a38666954a50849fd8c1522444f3d85d.js": "/dexterityOrigin/contextmanager/precache-manifest.a38666954a50849fd8c1522444f3d85d.js",
-    "service-worker.js": "/dexterityOrigin/contextmanager/service-worker.js",
-    "static/css/2.22a7d4ef.chunk.css.map": "/dexterityOrigin/contextmanager/static/css/2.22a7d4ef.chunk.css.map",
-    "static/css/main.36497136.chunk.css.map": "/dexterityOrigin/contextmanager/static/css/main.36497136.chunk.css.map"
+    "main.css": "/contextmanager/static/css/main.36497136.chunk.css",
+    "main.js": "/contextmanager/static/js/main.b21eca1e.chunk.js",
+    "main.js.map": "/contextmanager/static/js/main.b21eca1e.chunk.js.map",
+    "runtime~main.js": "/contextmanager/static/js/runtime~main.31760953.js",
+    "runtime~main.js.map": "/contextmanager/static/js/runtime~main.31760953.js.map",
+    "static/css/2.22a7d4ef.chunk.css": "/contextmanager/static/css/2.22a7d4ef.chunk.css",
+    "static/js/2.e99db0ff.chunk.js": "/contextmanager/static/js/2.e99db0ff.chunk.js",
+    "static/js/2.e99db0ff.chunk.js.map": "/contextmanager/static/js/2.e99db0ff.chunk.js.map",
+    "index.html": "/contextmanager/index.html",
+    "precache-manifest.c4a1614bf66759a8570627b9ebb39ea8.js": "/contextmanager/precache-manifest.c4a1614bf66759a8570627b9ebb39ea8.js",
+    "service-worker.js": "/contextmanager/service-worker.js",
+    "static/css/2.22a7d4ef.chunk.css.map": "/contextmanager/static/css/2.22a7d4ef.chunk.css.map",
+    "static/css/main.36497136.chunk.css.map": "/contextmanager/static/css/main.36497136.chunk.css.map"
   }
 }
