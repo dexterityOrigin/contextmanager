@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/contextmanager/static/css/main.36497136.chunk.css",
+    "main.js": "/contextmanager/static/js/main.b21eca1e.chunk.js",
+    "main.js.map": "/contextmanager/static/js/main.b21eca1e.chunk.js.map",
+    "runtime~main.js": "/contextmanager/static/js/runtime~main.31760953.js",
+    "runtime~main.js.map": "/contextmanager/static/js/runtime~main.31760953.js.map",
+    "static/css/2.22a7d4ef.chunk.css": "/contextmanager/static/css/2.22a7d4ef.chunk.css",
+    "static/js/2.e99db0ff.chunk.js": "/contextmanager/static/js/2.e99db0ff.chunk.js",
+    "static/js/2.e99db0ff.chunk.js.map": "/contextmanager/static/js/2.e99db0ff.chunk.js.map",
+    "index.html": "/contextmanager/index.html",
+    "precache-manifest.c4a1614bf66759a8570627b9ebb39ea8.js": "/contextmanager/precache-manifest.c4a1614bf66759a8570627b9ebb39ea8.js",
+    "service-worker.js": "/contextmanager/service-worker.js",
+    "static/css/2.22a7d4ef.chunk.css.map": "/contextmanager/static/css/2.22a7d4ef.chunk.css.map",
+    "static/css/main.36497136.chunk.css.map": "/contextmanager/static/css/main.36497136.chunk.css.map"
+  }
+}
